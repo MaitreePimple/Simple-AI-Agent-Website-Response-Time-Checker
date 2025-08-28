@@ -1,0 +1,17 @@
+AI-AGENT -> It will make Language model capable of real-time data 
+AI-AGENT -> It will External Functionalities , call functions APIS, MIMIC Human Behavior
+It mimic humans 
+
+what we are doing in PROMPT.PY 
+we are telling agaent 
+Agent (THINK ABOUT QUESTIONS)
+         |
+Tools needed to answer this question 
+         |
+Call the function 
+         |
+Return the Result
+         |
+Combine it with question
+         |
+    Full Answer 
